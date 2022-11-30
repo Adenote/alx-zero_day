@@ -1,2 +1,2 @@
 my first readme
-good of you
+never give up
